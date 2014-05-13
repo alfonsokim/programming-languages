@@ -1,0 +1,36 @@
+
+;; Variables para las canastas
+
+(define-type Crate int)
+
+(define oranges::Crate)
+(define apples::Crate)
+(define mix::Crate)
+
+(assert(= oranges 0))
+(assert(= apples 1))
+(assert(= mix 2))
+
+;; Fruta tomada de las canastas
+
+(define-type Fruit int)
+
+(define orange::Fruit)
+(define apple::Fruit)
+
+(assert(= orange 0))
+(assert(= apple 1))
+
+;; Etiquetas
+
+(define-type Label int)
+
+(define realOranges::Label)
+(define realApples::Label)
+(define realMix::Label)
+
+;; Se toma una manzana del mix
+
+(assert (= realApples mix))
+(assert (= realOranges apples))
+(assert (= realMix oranges))
