@@ -38,7 +38,7 @@
 (assert (= realOranges apples))
 (assert (= realMix oranges))
 
-(check)
+;; (check)
 
 ;; (show-model)
 
@@ -46,7 +46,7 @@
 (assert (= realOranges apple))
 (assert (= realMix orange))
 
-(check)
+;; (check)
 
 ;; (show-model)
 
@@ -54,10 +54,15 @@
 (echo "mix == realApples? ")
 (check)
 
-(assert(= mix realApples))
+(assert(= apples realOranges))
 (echo "apples == realOranges? ")
 (check)
 
-(assert(= mix realApples))
+(assert(= oranges realMix))
 (echo "oranges == realMix? ")
 (check)
+
+(assert (and (= mix realApples) (= apples realOranges) (= oranges realMix)))
+(echo "all? ")
+(check)
+

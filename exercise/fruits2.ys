@@ -1,0 +1,58 @@
+;; --------------------------------------------------------------------------
+;; First I define some types
+
+(define-type Fruit (scalar Orange Apple Mixed))
+(define-type Crate (scalar OrangeCrate AppleCrate MixedCrate))
+
+;; --------------------------------------------------------------------------
+;; Now I create the crates
+
+(define orangeCrate::Crate)
+(define appleCrate::Crate)
+(define mixedCrate::Crate)
+
+(define realOrange::Crate)
+(define realApple::Crate)
+(define realMixed::Crate)
+
+;; --------------------------------------------------------------------------
+;; What I know
+
+;; Take a fruit from the crate
+(define take::(-> Crate Fruit))  
+
+;; crates and realCrates are different
+(assert (and (/= orangeCrate realOrange) 
+             (/= appleCrate realApple)
+             (/= mixedCrate realMixed)
+        )
+)
+
+;; and I can't take a fruit from the labeled crate
+(assert (and (/= Apple (take appleCrate))   
+             (/= Orange (take orangeCrate))
+             (/= Mixed (take mixedCrate))
+        )
+)
+
+;; --------------------------------------------------------------------------
+;; Now I take an apple from the mixed crate
+(assert (= Apple (take mixedCrate)))
+
+;; --------------------------------------------------------------------------
+;; And let the magic happens
+(check)
+
+;; --------------------------------------------------------------------------
+(show-model)
+
+;; Only that there's no magic. The model looks:
+;; (= realOrange AppleCrate)
+;; (= appleCrate MixedCrate)
+;; (= realMixed MixedCrate)
+;; (= orangeCrate MixedCrate)
+;; (= mixedCrate AppleCrate)
+;; (= realApple AppleCrate)
+;; 
+;; And clearly is wrong. What I dont understand is why I'm getting things like
+;; (= realMixed MixedCrate) since I asserted that this crates are different
