@@ -29,8 +29,35 @@
 (define realApples::Label)
 (define realMix::Label)
 
-;; Se toma una manzana del mix
+;; Se toma una manzana del mix y se asume
+;; que la canasta de manzanas tiene el mix
+;; que el mix tiene las naranjas y las
+;; naranjas tienen mix
 
 (assert (= realApples mix))
 (assert (= realOranges apples))
 (assert (= realMix oranges))
+
+(check)
+
+;; (show-model)
+
+(assert (= realApples mix))
+(assert (= realOranges apple))
+(assert (= realMix orange))
+
+(check)
+
+;; (show-model)
+
+(assert(= mix realApples))
+(echo "mix == realApples? ")
+(check)
+
+(assert(= mix realApples))
+(echo "apples == realOranges? ")
+(check)
+
+(assert(= mix realApples))
+(echo "oranges == realMix? ")
+(check)
