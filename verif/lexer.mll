@@ -10,7 +10,7 @@ rule token = parse
           | '-'            { MINUS }
           | '*'            { TIMES }
           | '&'            { AND }
-	        | '|'            { OR }
+	     | '|'            { OR }
           | '<'            { LT }
           | '='            { EQ }
           | "=="           { EQQ}
@@ -20,9 +20,9 @@ rule token = parse
           | '!'            { NOT }
           | '('            { LPAREN }
           | ')'            { RPAREN }
-	        | '{'            { LCURL }
-	        | '}'            { RCURL }
-	        | ';'            { SEMI }
+	     | '{'            { LCURL }
+	     | '}'            { RCURL }
+	     | ';'            { SEMI }
           | "if"           { IF }
           | "else"         { ELSE }
           | "while"        { WHILE }
@@ -30,5 +30,5 @@ rule token = parse
           | "Post"         { POST }
           | "Inv"          { INV }
           | ['0'-'9']+ as lxm { INT(int_of_string lxm) }
-	        | ['a'-'z' 'A'-'Z']['a'-'z' 'A'-'Z' '0'-'9']* as lxm { VAR(lxm) }
+	     | ['a'-'z' 'A'-'Z']['a'-'z' 'A'-'Z' '0'-'9']* as lxm { VAR(lxm) }
           | eof            { EOF }
