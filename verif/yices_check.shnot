@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cat ./test/test1.c | ./a.out | diff - test/test1.yices
+cat ./test/test2.c | ./a.out | diff - test/test2.yices
+cat ./test/test3.c | ./a.out | diff - test/test3.yices
+

@@ -1,0 +1,10 @@
+
+(define y::int)
+(define x::int)
+(define x0::int)
+(assert (not (= x 9)))
+
+(assert (= x x0))
+(assert (= y x))
+(assert (= x (+ 5 4)))
+(check)

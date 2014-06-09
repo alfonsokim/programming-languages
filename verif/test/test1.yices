@@ -1,0 +1,10 @@
+
+(define y::int)
+(define y0::int)
+(define t::int)
+(define k::int)
+(define k0::int)
+(assert (not (not (< k0 y))))
+
+(assert (and (and (= y y0) (= k k0)) (= t (- y0 k0))))
+(check)
