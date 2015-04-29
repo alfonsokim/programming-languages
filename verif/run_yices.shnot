@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cat test/test1.c | ./a.out | yices
-cat test/test2.c | ./a.out | yices
-cat test/test3.c | ./a.out | yices
-

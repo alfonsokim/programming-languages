@@ -7,13 +7,13 @@
 %token PLUS MINUS TIMES LT AND OR NOT EQ  EQQ GT LE GE
 %token LPAREN RPAREN LCURL RCURL SEMI IF ELSE WHILE PRE POST INV  
 %token EOF
-%left PLUS MINUS        /* lowest precedence */
-%left TIMES          /* medium precedence */
-%left LT GT LE GE EQQ
 %left OR
 %left AND
-%nonassoc NOT        /* highest precedence */
-%start main             /* the entry point */
+%left LT GT LE GE EQQ
+%left PLUS MINUS        /* lowest precedence  */
+%left TIMES             /* medium precedence  */
+%nonassoc NOT           /* highest precedence */
+%start main             /* the entry point    */
 %type <Implang.stmt> main
 %%
 
@@ -48,5 +48,3 @@ stmt : VAR EQ expr  SEMI { Assign($1, $3) }
        | IF LPAREN expr RPAREN LCURL prog RCURL ELSE LCURL prog RCURL { Ifthen($3, $6, $10) }
        | WHILE LPAREN expr RPAREN LCURL INV LPAREN expr RPAREN SEMI prog RCURL {Whileloop($3, $8, $11)}
 ;
-
-
