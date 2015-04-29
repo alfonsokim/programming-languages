@@ -1,0 +1,1935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"and",
+				"andPart"
+			],
+			[
+				"false",
+				"falsePart"
+			],
+			[
+				"fals",
+				"falsePart"
+			],
+			[
+				"true",
+				"truePart"
+			],
+			[
+				"tr",
+				"trueVars"
+			],
+			[
+				"fa",
+				"falseVars"
+			],
+			[
+				"exp",
+				"exprToYices"
+			],
+			[
+				"yi",
+				"yices_equal"
+			],
+			[
+				"yice",
+				"yices_assert"
+			],
+			[
+				"y",
+				"yices_define"
+			],
+			[
+				"yic",
+				"yices_assert"
+			],
+			[
+				"var",
+				"varset"
+			],
+			[
+				"ex",
+				"extractVar"
+			],
+			[
+				"vars",
+				"varsMap"
+			],
+			[
+				"if",
+				"ifVarName"
+			],
+			[
+				"conte",
+				"contextToStr"
+			],
+			[
+				"ma",
+				"match	match"
+			],
+			[
+				"new",
+				"new_dict"
+			],
+			[
+				"pri",
+				"print_string"
+			],
+			[
+				"Stri",
+				"StringMap"
+			],
+			[
+				"get",
+				"get_varname_for"
+			],
+			[
+				"pr",
+				"print_dict"
+			],
+			[
+				"print",
+				"print_string"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"prin",
+				"Printf"
+			],
+			[
+				"Map",
+				"MapString"
+			],
+			[
+				"string",
+				"string_of_int"
+			],
+			[
+				"ad",
+				"addrGroup"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"tok",
+				"tokenString"
+			],
+			[
+				"GetT",
+				"GetToken"
+			],
+			[
+				"L",
+				"Location"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"GetEn",
+				"GetEnclosClass"
+			],
+			[
+				"begi",
+				"beginFunc"
+			],
+			[
+				"Typ",
+				"Type::stringType"
+			],
+			[
+				"Pri",
+				"PrintInt"
+			],
+			[
+				"GenB",
+				"GenBuiltInCall"
+			],
+			[
+				"Pro",
+				"Program::cg"
+			],
+			[
+				"Ty",
+				"Type::intType"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"es",
+				"elseBody"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"Re",
+				"ReturnStmt"
+			],
+			[
+				"els",
+				"elseBody"
+			],
+			[
+				"Cond",
+				"ConditionalStmt::Emit"
+			],
+			[
+				"For",
+				"ForStmt"
+			],
+			[
+				"st",
+				"stmts=s"
+			],
+			[
+				"Stm",
+				"StmtBlock"
+			],
+			[
+				"dec",
+				"decls"
+			],
+			[
+				"with",
+				"with_assert"
+			],
+			[
+				"fal",
+				"falseAss"
+			],
+			[
+				"un",
+				"union"
+			],
+			[
+				"u",
+				"union"
+			],
+			[
+				"mana",
+				"manageAssign"
+			],
+			[
+				"va",
+				"varset"
+			],
+			[
+				"exprTo",
+				"exprToStr"
+			],
+			[
+				"bin",
+				"binopToYices"
+			],
+			[
+				"e",
+				"exprToStr"
+			],
+			[
+				"w",
+				"wpc"
+			],
+			[
+				"Ex",
+				"exprToStr"
+			],
+			[
+				"eS",
+				"eStr1"
+			],
+			[
+				"to",
+				"toStr"
+			],
+			[
+				"r",
+				"rhs"
+			],
+			[
+				"expr",
+				"exprToStr"
+			],
+			[
+				"yices",
+				"yices_assert"
+			],
+			[
+				"uno",
+				"unopToYices"
+			],
+			[
+				"bino",
+				"binopToYices"
+			],
+			[
+				"str",
+				"string_of_int"
+			],
+			[
+				"yicu",
+				"yices_logical_unop"
+			],
+			[
+				"ll",
+				"yices_logical_binop"
+			],
+			[
+				"yics",
+				"yices_and"
+			],
+			[
+				"ind",
+				"in_deg"
+			],
+			[
+				"in",
+				"in_deg"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"cur",
+				"current_key"
+			],
+			[
+				"cu",
+				"current_key"
+			],
+			[
+				"mt",
+				"mtx_vals"
+			],
+			[
+				"des",
+				"dests"
+			],
+			[
+				"de",
+				"defaultdict"
+			],
+			[
+				"c",
+				"current_edge_map"
+			],
+			[
+				"current",
+				"current_key"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"date",
+				"date_created"
+			],
+			[
+				"z",
+				"zones"
+			],
+			[
+				"zone",
+				"zone_tweet"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"doc",
+				"docid"
+			],
+			[
+				"id",
+				"idx"
+			],
+			[
+				"sco",
+				"scoreList"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ter",
+				"term"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"fi",
+				"find_ngrams"
+			],
+			[
+				"co",
+				"corpus"
+			],
+			[
+				"q",
+				"qterms"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"R",
+				"R_esp"
+			],
+			[
+				"ve",
+				"vectorize"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"vec",
+				"vectorizeQuery"
+			],
+			[
+				"num",
+				"numDocs"
+			],
+			[
+				"la",
+				"lambda"
+			],
+			[
+				"ob",
+				"obtenidas"
+			],
+			[
+				"nor",
+				"norm"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"pre",
+				"preg"
+			],
+			[
+				"d",
+				"docid"
+			],
+			[
+				"freq",
+				"freqs"
+			],
+			[
+				"idf",
+				"idfs"
+			],
+			[
+				"docs",
+				"docs"
+			],
+			[
+				"nu",
+				"numDocs"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Id",
+				"IDx"
+			],
+			[
+				"boo",
+				"boolType"
+			],
+			[
+				"Is",
+				"IsEquivalentTo"
+			],
+			[
+				"pa",
+				"padre"
+			],
+			[
+				"Get",
+				"GetName"
+			],
+			[
+				"Che",
+				"CheckExtends"
+			],
+			[
+				"int",
+				"interf"
+			],
+			[
+				"nt",
+				"ntright"
+			],
+			[
+				"Rep",
+				"ReportNotImplemented"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"In",
+				"InterfaceDecl"
+			],
+			[
+				"Ass",
+				"AssignExpr"
+			],
+			[
+				"rig",
+				"rightDecl"
+			],
+			[
+				"Find",
+				"FindDecl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.ml",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "implang.ml",
+			"settings":
+			{
+				"buffer_size": 5269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "(define z::int)\n(define y::int)\n(define x::int)\n(define e2::bool)\n(define e1::bool)\n(assert (= e2 (= y 3)))\n(assert (= e1 (= x 4)))\n\n(assert (and (=> e1 (and (=> e2 (= z 1)\n) (=> (not e2) true\n))\n) (=> (not e1) (= z 3)\n)))\n(check)",
+			"file": "/Users/victor/Desktop/algo.ys",
+			"file_size": 134,
+			"file_write_time": 1400905979000000,
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"oca",
+				"Set Syntax: OCaml"
+			],
+			[
+				"ocam",
+				"Set Syntax: OCaml"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"langua",
+				"Dictionaries: Set Language"
+			],
+			[
+				"scal",
+				"Set Syntax: Scala"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gitd",
+				"Git: Diff All"
+			],
+			[
+				"gitdi",
+				"Git: Diff All"
+			],
+			[
+				"synta c",
+				"Set Syntax: C"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"emmW",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"case ",
+				"Convert Case: Title Case"
+			],
+			[
+				"capcas",
+				"Convert Case: Swap Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"gic",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"add ",
+				"Git: Add..."
+			],
+			[
+				"git ss",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"scala",
+				"Set Syntax: Scala"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"syn sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"set sy c",
+				"Set Syntax: C"
+			],
+			[
+				"sy",
+				"Set Syntax: C"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/test3.c",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/varmap.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/.gitignore",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/Makefile",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/implang.ml",
+		"/Users/victor/Dropbox/MCC/lenguajes/mcc_verif/.git/MERGE_MSG",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/main.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/lexer.mll",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/parser.mly",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/test1.c",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/test2.c",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/testmap.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/testmap2.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/testmap3.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/mcc_verif/yices.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/yices.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/main.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/implang.ml",
+		"/Users/victor/Desktop/algo.ys",
+		"/Users/victor/Desktop/dict.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/parser.mly",
+		"/Users/victor/Desktop/problem1.ys",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/parser.ml",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/lexer.ml",
+		"/Users/victor/Downloads/MulticastServer.java",
+		"/Users/victor/Workspace/decaf_compiler/pp4/ast_decl.cc",
+		"/Users/victor/Workspace/compiladores/pp5/ast.h",
+		"/Users/victor/Workspace/compiladores/pp5/ast_decl.cc",
+		"/Users/victor/Workspace/compiladores/pp5/ast_decl.h",
+		"/Users/victor/Workspace/compiladores/pp5/ast_stmt.cc",
+		"/Users/victor/Workspace/compiladores/pp5/ast_stmt.h",
+		"/Users/victor/Workspace/decaf_compiler/pp4/ast_expr.cc",
+		"/Users/victor/Workspace/compiladores/pp5/samples/op5.decaf",
+		"/Users/victor/Workspace/decaf_compiler/pp4/ast.h",
+		"/Users/victor/Workspace/compiladores/pp5/ast.cc",
+		"/Users/victor/Workspace/decaf_compiler/pp4/ast.cc",
+		"/Users/victor/Workspace/compiladores/pp5/codegen.h",
+		"/Users/victor/Workspace/decaf_compiler/pp4/ast_stmt.cc",
+		"/Users/victor/Workspace/compiladores/pp4/ast_decl.cc",
+		"/Users/victor/Workspace/compiladores/pp5/ast_type.cc",
+		"/Users/victor/Workspace/compiladores/pp5/ast_type.h",
+		"/Users/victor/Workspace/compiladores/pp5/ast_expr.cc",
+		"/Users/victor/Workspace/compiladores/pp4/Makefile",
+		"/Users/victor/Workspace/compiladores/pp5/Makefile",
+		"/Users/victor/Workspace/compiladores/pp5/ast_expr.h",
+		"/Users/victor/Workspace/compiladores/pp5/list.h",
+		"/Users/victor/Downloads/pp5/ast_decl.h",
+		"/Users/victor/Downloads/pp5/ast_stmt.h",
+		"/Users/victor/Downloads/pp5/ast_stmt.cc",
+		"/Users/victor/Workspace/compiladores/pp4/list.h",
+		"/Users/victor/Workspace/compiladores/pp5/.gitignore",
+		"/Users/victor/Workspace/compiladores/pp5/parser.y",
+		"/Users/victor/Workspace/compiladores/pp5/tac.h",
+		"/Users/victor/Workspace/compiladores/pp5/codegen.cc",
+		"/Users/victor/Workspace/compiladores/pp5/samples/t1.decaf",
+		"/Users/victor/Workspace/compiladores/pp5/run",
+		"/Users/victor/Workspace/compiladores/pp5/parser.h",
+		"/Users/victor/Workspace/compiladores/pp5/samples/factorial.out",
+		"/Users/victor/Workspace/compiladores/pp5/samples/factorial.decaf",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/lexer.mll",
+		"/Users/victor/Desktop/verif.ys",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/test3.c",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/test1.c",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/test2.c",
+		"/Users/victor/Dropbox/MCC/lenguajes/verif/.git/COMMIT_EDITMSG",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/Makefile",
+		"/Users/victor/Dropbox/MCC/lenguajes/verif/.git/MERGE_MSG",
+		"/Users/victor/Dropbox/MCC/Lenguajes/verif/main.cmi",
+		"/Users/victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/indegByTime.tsv",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/tarea4.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/grafoByTime.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/grafoByTime.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/tweets_located_users.tbl",
+		"/Users/victor/Dropbox/TwitterNLP/sentimentAnalyzer2.0/AWS/EMR/mapperFreqTweets.py",
+		"/Users/victor/Downloads/mapperFreqTweets_text.py",
+		"/Users/victor/Dropbox/TwitterNLP/Anim/groupByDate.py",
+		"/Users/victor/Dropbox/TwitterNLP/Anim/mapea.R",
+		"/Users/victor/Dropbox/TwitterNLP/Anim/run.sh",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/mapperGraphByTime.py",
+		"/Users/victor/Dropbox/Tesis/Modelo/ToolsNetworkAnalysis_MIT/degrees.m",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/reducerGraphByTime.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/graphByTime.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/tweets_by_zone.tsv",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/homeLocations_10to4.tbl",
+		"/Users/victor/Downloads/Python.tex",
+		"/Users/victor/Downloads/xmlrpc.php",
+		"/Users/victor/Downloads/yices-2.2.1/examples/bool_eqs.ys",
+		"/Users/victor/Downloads/yices-2.2.1/examples/arith_mix.ys",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/gs2.txt",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/docs2.txt",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/docs.txt",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/gs.txt",
+		"/Users/victor/Downloads/Untitled0.py",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/gs3.txt",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/Tareas/Tarea 4/docs3.txt",
+		"/Users/victor/Workspace/conacyt-cpg/POS/testCPG.py",
+		"/Users/victor/Workspace/conacyt-cpg/POS/inspectMtxConf.py",
+		"/Users/victor/Workspace/compiladores/pp4/ast_decl.h",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad12.out",
+		"/Users/victor/Workspace/compiladores/pp4/test.log",
+		"/Users/victor/Workspace/compiladores/pp4/testAll.sh",
+		"/Users/victor/Workspace/compiladores/pp4/samples/t13.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/errors.h",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad11.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/ast_type.h",
+		"/Users/victor/Workspace/compiladores/pp4/ast_type.cc",
+		"/Users/victor/Workspace/compiladores/pp4/errors.cc",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/zonas/1.topics",
+		"/Users/victor/Dropbox/MCC/MetodosAnaliticos/final/datos/zonas/0.topics",
+		"/Users/victor/Workspace/compiladores/pp4/samples/t10.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/ast_stmt.cc",
+		"/Users/victor/Workspace/compiladores/pp4/parser.y",
+		"/Users/victor/Workspace/compiladores/pp4/ast.cc",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad12.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad11.out",
+		"/Users/victor/Workspace/compiladores/pp4/ast_expr.h",
+		"/Users/victor/Workspace/compiladores/pp4/ast_expr.cc",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad10.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad10.out",
+		"/Users/victor/Workspace/compiladores/pp4/samples/t4.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad1.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/samples/queue.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/samples/queue.out",
+		"/Users/victor/Workspace/compiladores/pp4/samples/new.out",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad9.out",
+		"/Users/victor/Workspace/compiladores/pp4/samples/bad9.decaf",
+		"/Users/victor/Workspace/compiladores/pp4/ast_stmt.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*",
+			"<open files>",
+			"",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"defE",
+			"assE",
+			"falseExpres",
+			"SS.add",
+			"(yices_equal v (exprToYices(e)))",
+			"(string_of_int(ifVarName))",
+			"get_varname_for",
+			"varsMap",
+			"exprs",
+			"let evars = extractVar e SS.empty in \n			                			let newvarset = (SS.union varset evars) in\n			                			managePrePost e r newvarset",
+			"old_val",
+			"key",
+			"password",
+			"GetBase",
+			"GetToken",
+			"this->GetOp()",
+			"fndecl",
+			"FnDecl",
+			"CheckAll",
+			"check",
+			"BeginFunc",
+			"wpc",
+			" ~with_assert:false",
+			"withAssert",
+			"varset",
+			"varlist",
+			"printer",
+			"i",
+			"align",
+			"x y",
+			"x y ",
+			"type",
+			";;",
+			"^ \"\\n\"",
+			"e",
+			"expr",
+			"var",
+			"out_deg",
+			",,",
+			" (?=\\d)",
+			"\\s(?=\\w)",
+			" ",
+			"  ",
+			" .ap",
+			"= dest",
+			"current_edge_list",
+			",",
+			"()",
+			"datecreated",
+			"R.",
+			"P.",
+			"best friend",
+			"friend",
+			"'",
+			"(,?)([a-z\\']+)(,?)",
+			"(,?)([a-z\\']+),",
+			"(,?)(([a-z\\']+),",
+			"(,?)([a-z\\'])+,",
+			"(,?)[a-z\\']+,",
+			"\n",
+			"is",
+			" ",
+			"	",
+			"terms",
+			"preprocess",
+			"termFreqMatrix",
+			"vectorize",
+			"vectorizeQuery",
+			"vectorizeDocument",
+			"unsparse",
+			"query",
+			"Resp",
+			"esp",
+			"term",
+			"numTerms",
+			"One",
+			" ",
+			"str",
+			"FreqDict",
+			"IDx",
+			"addDocumentByTerms",
+			"smile",
+			"(\"\",",
+			"wine",
+			"       ",
+			"implements",
+			"other",
+			"rightDecl",
+			"members",
+			"intDecls",
+			"intDec",
+			"GetId",
+			"members",
+			"if(left!=NULL)\n        left->Check();\n    right->Check();",
+			"base->GetType()",
+			"ase->GetType()",
+			"parent",
+			"Type",
+			"IsClass",
+			"lookup",
+			"d",
+			"-",
+			"PrintDebug",
+			"Return",
+			"IdentifierNotDeclared",
+			"parent = parent->GetParent()",
+			"this",
+			"FindDecl",
+			"AssignExpr",
+			"ReportError::IncompatibleOperands(op, ltype, rtype);",
+			"ReportError",
+			"ReportError::IncompatibleOperands(op, ltype, rtype);",
+			"intType",
+			"\\d+\\.\\d+,\\d+\\.\\d+",
+			"e",
+			"nan",
+			"	",
+			"[falta cita]",
+			"ENTIDAD",
+			"&\\s*\\d+ & [A-Z]",
+			"^\\s*\\d+ &",
+			"^\\s?\\d &",
+			"^.+? &",
+			"[A-Z]",
+			"\\d+\\.\\d+,\\d+\\.\\d+",
+			"^(.*) & (.*) & (.*) & (.*)$",
+			"'.* '\\s?[^,\\]]'",
+			"d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"",
+			"\\1\\\"\\2\\\"\\3",
+			"\\1\\\"\\2\\\",",
+			"\\1\"\\2\",",
+			"\\1 & \\3 & \\2 & \\4",
+			"\\\\1 & \\\\3 & \\\\2 & \\\\4",
+			"",
+			"\\1,\\2",
+			"BuildScope",
+			"BuildScope(",
+			"N",
+			"'otras/A '",
+			"'como/R '",
+			"'cuales/P '",
+			"'tamano/A '",
+			"'procesador/N '",
+			"'el/P '",
+			"'es/V '",
+			"'con/S '",
+			"'mas/R '",
+			"'no/R '",
+			"'a/S ', 'el/P '",
+			"'de/S ', 'el/P '"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.ml",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/OCaml/OCaml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "implang.ml",
+					"settings":
+					{
+						"buffer_size": 5269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4356,
+								4356
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/OCaml/OCaml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1636.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/victor/Desktop/algo.ys",
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 366.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tes",
+				"test3.c"
+			],
+			[
+				"im",
+				"implang.ml"
+			],
+			[
+				"var",
+				"varmap.ml"
+			],
+			[
+				"as",
+				"ast.h"
+			],
+			[
+				"dec",
+				"ast_decl.cc"
+			],
+			[
+				"st",
+				"ast_stmt.h"
+			],
+			[
+				"astde",
+				"ast_decl.cc"
+			],
+			[
+				"stmt",
+				"ast_stmt.cc"
+			],
+			[
+				"stm",
+				"ast_stmt.h"
+			],
+			[
+				"ast",
+				"ast.h"
+			],
+			[
+				"decl",
+				"ast_decl.cc"
+			],
+			[
+				"ast.c",
+				"ast.cc"
+			],
+			[
+				"ex",
+				"ast_expr.h"
+			],
+			[
+				"astex",
+				"ast_expr.cc"
+			],
+			[
+				"cod",
+				"codegen.h"
+			],
+			[
+				"samples",
+				"samples/op5.decaf"
+			],
+			[
+				"astm",
+				"ast_stmt.cc"
+			],
+			[
+				"asty",
+				"ast_type.h"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"astexp",
+				"ast_expr.cc"
+			],
+			[
+				"astepr",
+				"ast_expr.h"
+			],
+			[
+				"astst",
+				"ast_stmt.h"
+			],
+			[
+				"astty",
+				"ast_type.h"
+			],
+			[
+				"astd",
+				"ast_decl.h"
+			],
+			[
+				"list",
+				"list.h"
+			],
+			[
+				"exprh",
+				"ast_expr.h"
+			],
+			[
+				"de",
+				"ast_decl.h"
+			],
+			[
+				"codege",
+				"codegen.cc"
+			],
+			[
+				"ash",
+				"ast_decl.h"
+			],
+			[
+				"asde",
+				"ast_decl.cc"
+			],
+			[
+				"par",
+				"parser.y"
+			],
+			[
+				"code",
+				"codegen.h"
+			],
+			[
+				"t1",
+				"samples/t1.decaf"
+			],
+			[
+				"run",
+				"run"
+			],
+			[
+				"",
+				"codegen.h"
+			],
+			[
+				"ma",
+				"/Users/victor/Dropbox/MCC/Lenguajes/verif/main.ml"
+			],
+			[
+				"bad6",
+				"samples/bad6.decaf"
+			],
+			[
+				"log",
+				"test.log"
+			],
+			[
+				"bad12",
+				"samples/bad12.out"
+			],
+			[
+				"test",
+				"testAll.sh"
+			],
+			[
+				"ty",
+				"ast_type.h"
+			],
+			[
+				"astt",
+				"ast_type.h"
+			],
+			[
+				"t13",
+				"samples/t13.decaf"
+			],
+			[
+				"err",
+				"errors.h"
+			],
+			[
+				"er",
+				"errors.cc"
+			],
+			[
+				"bad11",
+				"samples/bad11.decaf"
+			],
+			[
+				"exp",
+				"ast_expr.h"
+			],
+			[
+				"t10",
+				"samples/t10.decaf"
+			],
+			[
+				"te",
+				"test.log"
+			],
+			[
+				"bad1",
+				"samples/bad10.decaf"
+			],
+			[
+				"bad",
+				"samples/bad1.decaf"
+			],
+			[
+				"t4",
+				"samples/t4.decaf"
+			],
+			[
+				"type",
+				"ast_type.h"
+			],
+			[
+				"que",
+				"samples/queue.decaf"
+			],
+			[
+				"new",
+				"samples/new.out"
+			],
+			[
+				"error",
+				"errors.h"
+			],
+			[
+				"p",
+				"parser.y"
+			],
+			[
+				"bad4.",
+				"samples/bad4.decaf"
+			],
+			[
+				"sco",
+				"scope.h"
+			],
+			[
+				"ba",
+				"samples/bad6.out"
+			],
+			[
+				"typ",
+				"ast_type.h"
+			],
+			[
+				"b9de",
+				"samples/bad9.decaf"
+			],
+			[
+				"expr",
+				"ast_expr.cc"
+			],
+			[
+				"bad9",
+				"samples/bad9.out"
+			],
+			[
+				"bad8.",
+				"samples/bad8.out"
+			],
+			[
+				"t9",
+				"samples/t9.decaf"
+			],
+			[
+				"bad8",
+				"samples/bad8.decaf"
+			],
+			[
+				"lo",
+				"test.log"
+			],
+			[
+				"as_de",
+				"ast_decl.cc"
+			],
+			[
+				"bad4",
+				"samples/bad4.decaf"
+			],
+			[
+				"sc",
+				"scope.h"
+			],
+			[
+				"testal",
+				"testAll.sh"
+			],
+			[
+				"bad7",
+				"samples/bad7.decaf"
+			],
+			[
+				"errr",
+				"errors.cc"
+			],
+			[
+				"ast.cc",
+				"ast.cc"
+			],
+			[
+				"ast.h",
+				"ast.h"
+			],
+			[
+				"t5.de",
+				"samples/t5.decaf"
+			],
+			[
+				"uti",
+				"utility.cc"
+			],
+			[
+				".y",
+				"parser.y"
+			],
+			[
+				"bad5",
+				"samples/bad5.out"
+			],
+			[
+				"bad4.o",
+				"samples/bad4.out"
+			],
+			[
+				"asex",
+				"ast_expr.h"
+			],
+			[
+				"scp",
+				"scope.h"
+			],
+			[
+				"t3",
+				"samples/t3.decaf"
+			],
+			[
+				"bad3",
+				"samples/bad3.decaf"
+			],
+			[
+				"aste",
+				"ast_expr.h"
+			],
+			[
+				"r",
+				"errors.h"
+			],
+			[
+				"asst",
+				"ast_stmt.h"
+			],
+			[
+				"erro",
+				"errors.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
